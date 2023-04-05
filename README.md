@@ -1,8 +1,4 @@
-# PAWO Yield and Savings application
-
-Pawo exchange wrappers backend repository:
-- Binance 
-- Ftx
+Exchange wrappers for Bybit Exchange
 
 ## Available Test Scripts
 

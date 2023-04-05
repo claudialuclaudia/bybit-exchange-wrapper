@@ -1,0 +1,8 @@
+config.env
+app_config.json
+*.log
+*.http
+/.vscode
+.DS_Store
+bybit/__debug_bin
+bybit/*example.json
